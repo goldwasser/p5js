@@ -2,7 +2,7 @@ let pad = 20;
 
 function preload() {
     SLU = loadImage(
-	"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Slu_clock_tower.jpg/446px-Slu_clock_tower.jpg"
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Slu_clock_tower.jpg/500px-Slu_clock_tower.jpg"
   );
 }
 
