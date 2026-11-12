@@ -1,6 +1,6 @@
 function preload() {
   SLU = loadImage(
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Slu_billiken.jpg/556px-Slu_billiken.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Slu_billiken.jpg/500px-Slu_billiken.jpg"
   );
 }
 
