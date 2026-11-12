@@ -1,2 +1,1 @@
-# p5js
-Sample sketches
+Sample sketches for Intro to CS: Multimedia
